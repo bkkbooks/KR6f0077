@@ -1,0 +1,80 @@
+canonical_identifier: bkk:krp/KR6f0077/v1
+canonical_location: https://kanripo.org/bkk/KR6f0077/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 觀無量壽佛經義疏
+  identifiers:
+    alt_id:
+    - T37n1754
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T37/T37n1754.xml
+    old_id: T37n1754
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6f0077_000.yaml, hash: 'sha256:c99f8d850fe46055747946775035c99e67fa40263d5e2b020abcf3bab85e2b77'}
+  - {seq: 1, filename: KR6f0077_001.yaml, hash: 'sha256:7c3e63d673a0a0178beb155216bfa5f9aaac4c88e6417a66453e5fd7d5021e39'}
+  - {seq: 2, filename: KR6f0077_002.yaml, hash: 'sha256:e4a761203029e2115697dd00f0709170d9e698907d9503641dffaa7e9a4f1e16'}
+  - {seq: 3, filename: KR6f0077_003.yaml, hash: 'sha256:360c5825702480aaa3cfc87b92cfd7f3e5db29489b2c67c6edf947fc1149a1c4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6f0077_000.markers.yaml, hash: 'sha256:4d37ee3a171060cd5322149cbc453e86c5cc2bef7b6bfdcedc8d44ace15102d3'}
+  - {seq: 1, role: markers, filename: assets/KR6f0077_001.markers.yaml, hash: 'sha256:e42c5a033da3c6303a779f6089f4c2a921b9eed3c6863c0852f50518561f15fe'}
+  - {seq: 2, role: markers, filename: assets/KR6f0077_002.markers.yaml, hash: 'sha256:ef757a398409577424f386e97d82e4bccfdcd19de166fffc9ff5056a3df3f3cb'}
+  - {seq: 3, role: markers, filename: assets/KR6f0077_003.markers.yaml, hash: 'sha256:f289abfa4944048968076d01b58204c7c3584b251e835939b4f2b989c2a37e07'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6f0077_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 觀無量壽佛經義疏序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6f0077_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9575
+  label: 觀無量壽佛經義疏卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6f0077_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 11470
+  label: 觀無量壽佛經義疏卷之中
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6f0077_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 15414
+  label: 觀無量壽佛經義疏卷下
+  type: juan
+  level: 1
+hash: sha256:3ab01b932e17e99f08030f5e33b0a3a1190222a29a28b2b1086ff82fe8e03356
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
