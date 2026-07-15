@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0077/v1
 canonical_location: https://kanripo.org/bkk/KR6f0077/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀無量壽佛經義疏
   identifiers:
@@ -24,15 +24,15 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0077_000.yaml, hash: 'sha256:b0ddae7746ae895b3b4c4b50c810e3a5dfdf81004ff1064b5506c77d1cfa9d57'}
-  - {seq: 1, filename: KR6f0077_001.yaml, hash: 'sha256:8d9b0d4b52cdc3dd63bffe0aaefb3ae02e7676ed81756327c1763b7d590367b7'}
-  - {seq: 2, filename: KR6f0077_002.yaml, hash: 'sha256:d69344268395737c50ecc36fa63d7ebf32eec5e38931054cfa09e53eabbd9edd'}
-  - {seq: 3, filename: KR6f0077_003.yaml, hash: 'sha256:0eed80dcb9cc34b9b91bdfc9d03678afc59e296082db5cc8e359e9f70d2a5c83'}
+  - {seq: 0, filename: KR6f0077_000.yaml, hash: 'sha256:8be987068937e201f9695f0945f44ab02b0b1fe1cc2550cdf52af4ac723c07b1'}
+  - {seq: 1, filename: KR6f0077_001.yaml, hash: 'sha256:c1318dd28a74bf269e7e0aa840f93ed100e0e34a5c944f87938758252fbad01a'}
+  - {seq: 2, filename: KR6f0077_002.yaml, hash: 'sha256:4f4af14e330065f28763ad9a5d78b575d54814c8e07d1448fc4a647c74b7b56d'}
+  - {seq: 3, filename: KR6f0077_003.yaml, hash: 'sha256:ee830776cb83eef5277807dba18a5e5213a3c5bb15b2c49b3b98cac275de832b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0077_000.markers.yaml, hash: 'sha256:039c5a9695872be77229afff0f92a48a2120c3057fca65bea9bcefd8afadf043'}
-  - {seq: 1, role: markers, filename: assets/KR6f0077_001.markers.yaml, hash: 'sha256:62cda6b4982b4c50a9a0cb684c4a91094943768ba3dc4c2d9408c8e775cba92c'}
-  - {seq: 2, role: markers, filename: assets/KR6f0077_002.markers.yaml, hash: 'sha256:b3410effd735cacd0931e29962b2ad6483ba37d49a81ebe2fb031a78b556634f'}
-  - {seq: 3, role: markers, filename: assets/KR6f0077_003.markers.yaml, hash: 'sha256:d361cdcc4fa01f20e3a5adae421cdd3ca23cea87679c45ff34c9b0eef55d5566'}
+  - {seq: 0, role: markers, filename: assets/KR6f0077_000.markers.yaml, hash: 'sha256:406eb0d4e7300c4f2c5187b7536a5186c74ff5a2858c33b8978f0f0ddced2a80'}
+  - {seq: 1, role: markers, filename: assets/KR6f0077_001.markers.yaml, hash: 'sha256:0c0b14d73391b04cc1063f8344b43894f266aa13abab3c634be9312ae1484ea9'}
+  - {seq: 2, role: markers, filename: assets/KR6f0077_002.markers.yaml, hash: 'sha256:078a1e12a54a86c98913f512f4e82487fbd4f253b319f2f5c0d1a0e09dc1711e'}
+  - {seq: 3, role: markers, filename: assets/KR6f0077_003.markers.yaml, hash: 'sha256:1dd68e211fd7cf04fbaa7c0f3e362fd3999599c8605033c4ac224d268dca3b66'}
 table_of_contents:
 - ref:
     seq: 0
@@ -74,4 +74,7 @@ table_of_contents:
   label: 觀無量壽佛經義疏卷下
   type: juan
   level: 1
-hash: sha256:a447db39aebd32ebbe1b740dabcec3f3fa5d4741083e094827c1a5eaa00df027
+hash: sha256:3ad9b6692fe9155d17127cefd67732ffc9f3e323c5253ec90f64a5cc4ef1d41e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
