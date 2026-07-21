@@ -24,12 +24,12 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6f0077_000.yaml, hash: 'sha256:8be987068937e201f9695f0945f44ab02b0b1fe1cc2550cdf52af4ac723c07b1'}
+  - {seq: 0, filename: KR6f0077_000.yaml, hash: 'sha256:f4cddeeda5db61ff4d58089a724c8298abe65ec044f6022d70d61db324e40e0a'}
   - {seq: 1, filename: KR6f0077_001.yaml, hash: 'sha256:c1318dd28a74bf269e7e0aa840f93ed100e0e34a5c944f87938758252fbad01a'}
   - {seq: 2, filename: KR6f0077_002.yaml, hash: 'sha256:4f4af14e330065f28763ad9a5d78b575d54814c8e07d1448fc4a647c74b7b56d'}
   - {seq: 3, filename: KR6f0077_003.yaml, hash: 'sha256:ee830776cb83eef5277807dba18a5e5213a3c5bb15b2c49b3b98cac275de832b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6f0077_000.markers.yaml, hash: 'sha256:406eb0d4e7300c4f2c5187b7536a5186c74ff5a2858c33b8978f0f0ddced2a80'}
+  - {seq: 0, role: markers, filename: assets/KR6f0077_000.markers.yaml, hash: 'sha256:cad24e306bf453ed63ad7e15a54ad7084d7a27083e34dc20724aacc11ccde4dc'}
   - {seq: 1, role: markers, filename: assets/KR6f0077_001.markers.yaml, hash: 'sha256:0c0b14d73391b04cc1063f8344b43894f266aa13abab3c634be9312ae1484ea9'}
   - {seq: 2, role: markers, filename: assets/KR6f0077_002.markers.yaml, hash: 'sha256:078a1e12a54a86c98913f512f4e82487fbd4f253b319f2f5c0d1a0e09dc1711e'}
   - {seq: 3, role: markers, filename: assets/KR6f0077_003.markers.yaml, hash: 'sha256:1dd68e211fd7cf04fbaa7c0f3e362fd3999599c8605033c4ac224d268dca3b66'}
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6f0077_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 觀無量壽佛經義疏序
@@ -74,7 +74,7 @@ table_of_contents:
   label: 觀無量壽佛經義疏卷下
   type: juan
   level: 1
-hash: sha256:3ad9b6692fe9155d17127cefd67732ffc9f3e323c5253ec90f64a5cc4ef1d41e
+hash: sha256:0a16bae70849f6c1e649b683ebd55bd05a4fe6d5f342feca60b755ef133079d1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

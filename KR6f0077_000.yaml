@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6f0077/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 觀無量壽佛經義疏序釋元照述堪忍濁土異趣群居安養淨邦上善俱會是知棘林胎獄宜奮志以長辭寶界金池可潛神而直往潮音偏讚遍見琅函海衆高棲備聞青史但以機宜殊等誘掖多門或恆課密言或專持嘉號或克期繫念或潔己修齋各赴時緣備存衆典唯茲正觀畢趣無生信是除疑捨障之神方長生不死之要術也歷觀前古受誦尤多逮至方今樂聞益衆忝從早歲專玩斯文翻嗟億劫之無歸深慶餘生之有賴然則諸師著撰各尚所宗後進披尋莫知攸往由是參詳名理酬挍古今托取優長芟除繁瑣述而不作何敢侮於前修統之有宗庶可貽於來學文從簡易意在修治月藉指標見月而無勞執指岸因舟度到岸而自可忘舟曲被未來不負韋提之虔請仰承遺囑敢忘慶喜之重宣聊贊上來冀資西邁云耳
   hash: sha256:25572f7153bef99f47c184872537099e3da903ba2fffb6292f0dc39e135364bf
   markers:
   - {type: 序, offset: 0, content: 觀無量壽佛經義疏序, id: KR6f0077_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 觀無量壽佛經義疏
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T37/T37n1754.xml
     old_id: T37n1754
-hash: sha256:8be987068937e201f9695f0945f44ab02b0b1fe1cc2550cdf52af4ac723c07b1
+hash: sha256:f4cddeeda5db61ff4d58089a724c8298abe65ec044f6022d70d61db324e40e0a

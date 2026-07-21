@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR6f0077/bkk/v1/markers/0
 seq: 0
 markers:
-  front:
+  body:
   - {type: page-break, offset: 0, content: '', id: KR6f0077_T_000-0279a, 'n': 0279a, ed: T, source_xml_id: T37.1754.0279a}
   - {type: line-break, offset: 0, content: '', id: KR6f0077_T_000-0279a01, ed: T, 'n': 0279a01}
   - {type: line-break, offset: 0, content: '', id: KR6f0077_T_000-0279a02, ed: T, 'n': 0279a02}
@@ -99,6 +99,5 @@ markers:
   - {type: xml-element, offset: 286, content: '', id: pT37p0279a0601_end, name: p, role: close, attrs: {'xml:id': pT37p0279a0601}}
   - {type: line-break, offset: 286, content: '', id: KR6f0077_T_000-0279a23, ed: T, 'n': 0279a23}
   - {type: line-break, offset: 286, content: '', id: KR6f0077_T_000-0279a24, ed: T, 'n': 0279a24}
-  body: []
   back: []
-hash: sha256:406eb0d4e7300c4f2c5187b7536a5186c74ff5a2858c33b8978f0f0ddced2a80
+hash: sha256:cad24e306bf453ed63ad7e15a54ad7084d7a27083e34dc20724aacc11ccde4dc
